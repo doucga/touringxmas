@@ -70,7 +70,7 @@ a {
   <div class="row">
     <div class="col-md-12">
       <div class="main-icon text-success"><span class="uxicon uxicon-clock-refresh"></span></div>
-      <h1>Future home of something very cool.</h1>
+      <h1>Future home of something quite cool.</h1>
     </div>
   </div>
 
