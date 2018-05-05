@@ -23,7 +23,7 @@ body {
 </head>
 <body>
     <div class="center">
-      <font color="white"> Something cool coming soon! </font>
+      <font size="3" face="verdana" color="white"> Something cool coming soon! </font>
     </div>
 </body>
 </html>
