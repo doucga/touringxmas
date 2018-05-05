@@ -13,10 +13,15 @@ body {
   background-size: cover;
   background-color: #464646;
 }
+.center{
+        text-align:center;
+    }
 </style>
 
 </head>
 <body>
-    <font color="white"> Something cool coming soon! </font>
+    <div class="center">
+      <font color="white"> Something cool coming soon! </font>
+    </div>
 </body>
 </html>
