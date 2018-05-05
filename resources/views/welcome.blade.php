@@ -14,7 +14,9 @@ body {
   background-color: #464646;
 }
 .center{
-        text-align:center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
     }
 </style>
 
