@@ -17,6 +17,6 @@ body {
 
 </head>
 <body>
-
+Something cool coming soon!
 </body>
 </html>
