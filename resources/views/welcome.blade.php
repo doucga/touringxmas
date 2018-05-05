@@ -7,7 +7,11 @@
 <style>
 body {
   background: url({{url('/images/xmasbackground.jpg')}}) no-repeat;
-  background-size: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
 }
 </style>
 
