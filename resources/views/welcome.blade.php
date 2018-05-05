@@ -57,6 +57,7 @@ a {
 </head>
 
 <body>
+    <body background="{{url('/images/Christmas_tree_03.jpg')}}">  
 <div class="container text-center" id="error">
 
   <svg height="100" width="100">
