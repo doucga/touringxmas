@@ -20,6 +20,14 @@ body {
     }
 </style>
 
+<style type="text/css">
+@font-face {
+    font-family: WhiteXmas;
+    src: url('{{ public_path('fonts/whitexmas.ttf') }}');
+}
+</style>
+
+
 </head>
 <body>
     <div class="center">
